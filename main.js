@@ -1,6 +1,6 @@
 const FLOOR_HEIGHT = 16
 const JUMP_FORCE = 1000
-const SPEED = 350
+const SPEED = 375
 
 // initialize context
 kaboom({
